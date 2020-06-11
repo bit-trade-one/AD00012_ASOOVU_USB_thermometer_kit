@@ -1,4 +1,4 @@
-# AD ASOOVU USB・かんたんUSB温度計キット
+# AD00012 ASOOVU USB・かんたんUSB温度計キット
 
 **「ASOOVU USB」が温度計になっちゃう？！拡張ボードキット**  
 
