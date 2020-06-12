@@ -11,6 +11,8 @@ USB温度ロガーなど様々な機能を持たせる事が出来ます。
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/asoovu/ad00012/)!
 
+## [回路図](https://github.com/bit-trade-one/AD00012_ASOOVU_USB_thermometer_kit/blob/master/Schematics/asv_tmp_diagram.pdf)
+
 ## 製品仕様
 
  -   製品名：ASOOVU USB・かんたんUSB温度計キット
